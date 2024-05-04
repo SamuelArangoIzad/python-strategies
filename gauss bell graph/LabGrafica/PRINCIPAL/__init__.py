@@ -1,0 +1,19 @@
+
+"""
+
+AQUI ABAJO
+
+"""
+
+
+#TRAER LOS CODIGOS AQUI
+
+#CUADRADOS MEDIOS Y CONGRUENCIA LINEAL
+
+
+
+"""
+
+LEER ARRIBA !!
+
+"""
